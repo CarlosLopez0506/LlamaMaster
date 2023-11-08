@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 24
+<<<<<<< HEAD
   productGUID: 64d36987a9bee8d40b3be9dbf15299c3
+=======
+  productGUID: f6b0a2d8819839441949772e6e696a9f
+>>>>>>> 1f8c274f5112700394387cece4488d0722f15438
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +17,11 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
+<<<<<<< HEAD
   productName: LLama Masters
+=======
+  productName: Llama Masters
+>>>>>>> 1f8c274f5112700394387cece4488d0722f15438
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
